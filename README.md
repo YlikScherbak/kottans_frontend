@@ -17,3 +17,8 @@
     <ul>
     <li><a href="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_2/task2Git.jpg"><img src="https://github.com/YlikScherbak/kottans_frontend/blob/master/task3/HTML-CSS.jpg"></a></li>
   </ul>
+  
+  <p><b>Task 4</b><p>
+    <ul>
+    <li><a href="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_4/task4.jpg"><img src="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_4/task4.jpg"></a></li>
+  </ul>
