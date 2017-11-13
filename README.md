@@ -27,3 +27,8 @@
     <ul>
     <li><a href="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_5/Task5.jpg"><img src="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_5/Task5.jpg"></a></li>
   </ul>
+  
+     <p><b>Task 8</b><p>
+    <ul>
+    <li><a href="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_8/ezgif-5-1fafd83455.gif"><img src="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_8/ezgif-5-1fafd83455.gif"></a></li>
+  </ul>
