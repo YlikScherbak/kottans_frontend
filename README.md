@@ -23,7 +23,7 @@
     <li><a href="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_4/task4.jpg"><img src="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_4/task4.jpg"></a></li>
   </ul>
   
-    <p><b>Task 5</b><p>
+   <p><b>Task 5</b><p>
     <ul>
     <li><a href="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_5/Task5.jpg"><img src="https://github.com/YlikScherbak/kottans_frontend/blob/master/task_5/Task5.jpg"></a></li>
   </ul>
