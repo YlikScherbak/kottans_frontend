@@ -50,12 +50,13 @@ $(document).ready(function () {
     };
 
     container.on('click', function (e) {
-        console.log(countHidevCard);
-        if (countHidevCard > 10) {
+        console.log(countHidenCard);
+        if (countHidenCard > 10) {
             alert('Поздравляем вы победитель');
-            $('.flip-container').removeClass('hover');
-            $('.flip-container').find('.flipper').show();
-            $('.flip-container').removeClass('deleted');
+			var flipContainer = $('.flip-container');
+            flipContainer.removeClass('hover');
+            flipContainer.find('.flipper').show();
+            flipContainer.removeClass('deleted');
             container.html($(".container .flip-container").sort(function () {
                 return Math.random() - 0.5;
             }));
